@@ -1,4 +1,14 @@
-h1 {
+#homepage-title h1.title{
     color: blue;
     font-family:monospace;
+    font-size: 45px;
+    font-weight:1000;
+    text-align: center;
+}
+
+#intro h1.page-title {
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
 }
