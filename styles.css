@@ -12,3 +12,22 @@
     font-size: 50px;
     text-align: center;
 }
+
+#description h1.description {
+    color: blue;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#description p.paragraph-1 {
+    font-size: medium;
+    background-color: rgb(104, 242, 11);
+    font-weight: 700;
+}
+
+#intro img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+}
