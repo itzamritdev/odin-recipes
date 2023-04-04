@@ -1,11 +1,21 @@
-#homepage-title h1.title{
+#Homepage-title .title{
     color: blue;
     font-family:monospace;
-    font-size: 45px;
+    font-size: 50px;
     font-weight:1000;
     text-align: center;
 }
 
+#Welcome .links {
+    font-size: 35px;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.hyperlink {
+    font-size: 30px;
+}
 #intro h1.page-title {
     color:blue;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -28,6 +38,18 @@
 #intro img {
     display: block;
     margin: auto;
-    width: 500px;
-    height: 500px;
+    width: 550px;
+    height: auto;
+}
+
+#Ingredients .list-1 {
+    background-color: rgb(23, 161, 64);
+}
+
+.paragrafo1 {
+    background-color: blue;
+}
+
+#Steps .first-steps {
+    background-color: rgb(92, 237, 48);
 }
